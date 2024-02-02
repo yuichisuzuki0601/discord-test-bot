@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "extensions": {
+    "recommendations": ["esbenp.prettier-vscode"],
+  },
+}
